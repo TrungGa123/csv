@@ -1,64 +1,62 @@
 name,base_symptoms,advance_symptoms,type
-Arthritis (viêm khớp),"đau khớp
+Viêm khớp,"đau khớp
 cứng khớp","sưng khớp
 giảm khả năng di chuyển",xương khớp
-Loãng xương,đau nhức cơ và xương,"dễ gãy xương
+Loãng xương,"đau nhức cơ và xương
+đau cột sống
+đau thắt lưng","dễ gãy xương
 giảm chiều cao",xương khớp
-Osteoarthritis,"đau khi di chuyển
-đau khớp","khớp sưng
-cứng khớp",xương khớp
-Gout,"đau nhức khớp
+Gout,"đau khớp
 cảm giác nóng","sưng đỏ khớp
 cứng khớp",xương khớp
-Viêm khớp dạng thấp,"đau khớp
-sưng khớp","đỏ khớp
-khớp cứng",xương khớp
-Bệnh tim mạch,"đau ngực
-khó thở","mệt mỏi
+Suy tim,"đau ngực
+khó thở
+ho khan","mệt mỏi
 phù nề
 nhịp tim bất thường",tim mạch
 Cao huyết áp,"đau đầu
-chóng mặt","đau ngực
-giảm thị lực",tim mạch
-Đái tháo đường tuýp 2,"khát nước
-di tiểu thường xuyên","mệt mỏi
-giảm cân bất thường
-tầm nhìn mờ",nội tiết
+chóng mặt
+đột quỵ
+đau tim","đau ngực
+giảm thị lực
+biến chứng não",tim mạch
 Bệnh thận mãn tính,"mệt mỏi
-chán ăn","sưng phù
-nước tiểu ít",nội tiết
-Béo phì,"tăng cân
-cảm giác đói","khó thở khi gắng sức
-đau khớp",nội tiết
-Bệnh tiểu đường tuýp 1,"đi tiểu thường xuyên
-khát nước","mệt mỏi
-sút cân",nội tiết
-Bệnh tuyến giáp,"mệt mỏi
-đổi cân nặng","rối loạn nhịp tim
+chán ăn
+sút cân nhanh","sưng phù
+nước tiểu có bọt",nội tiết
+Bệnh suy tuyến giáp,"mệt mỏi
+đau nhức cơ
+chịu lạnh kém","rối loạn nhịp tim
 rụng tóc",nội tiết
+Bệnh tiểu đường,"đi tiểu thường xuyên
+sụt cân","ngứa da
+khô miệng
+khát nước nhiều",nội tiết
 Bệnh Alzheimer,"quên
 lú lẫn","thay đổi hành vi
 khả năng ngôn ngữ giảm",thần kinh
 Bệnh Parkinson,"run rẩy
-chậm chạp","vấn đề về cân nhắc
+chậm chạp","cứng cơ
 đứng không vững",thần kinh
-Mất thính lực,"nghe kém
-yêu cầu lặp lại","rối loạn cân bằng
-tránh giao tiếp",thần kinh
 Trầm cảm,"buồn bã
-mất hứng thú","rối loạn giấc ngủ
+mất hứng thú
+mất tập trung","rối loạn giấc ngủ
 suy nghĩ tiêu cực",thần kinh
-Mất thị lực,"mờ mắt
+Suy giảm thị lực,"mờ mắt
 đổi màu nhìn","không nhìn thấy vùng lõm
 khó đọc",mắt
-Bệnh COPD,"ho khan
-khó thở","ho có đờm
-sưng phổi",hô hấp
-Viêm gan C,"mệt mỏi
-vàng da","đau bụng
-giảm cân",gan
+Đục thủy tinh thể,"mờ mắt
+cảm giác bị chói
+cảm giác bị lóa","khó nhìn vào ban đêm
+nhìn đôi
+nhìn mọi vật đều có màu nâu vàng",mắt
 Bệnh gan nhiễm mỡ,"mệt mỏi
-đau hạ sườn phải","sưng bụng
+đau hạ sườn phải
+sụt cân","sưng bụng
 vàng da",gan
-
-
+Ung thư gan,"mệt mỏi
+chán ăn
+","ra nhiều mồ hôi
+đầy hơi sau khi ăn
+da mặt sạm đen
+đau vùng bụng bên phải",gan
